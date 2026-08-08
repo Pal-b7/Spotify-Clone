@@ -2,7 +2,7 @@
 A front-end clone of Spotify's web player interface, built to practice HTML and CSS fundamentals — layout, responsive design, and UI replication of a real-world product.
 
 ## Live Demo
-https://pal-b7.github.io/Spotify-Clone/
+https://magenta-dieffenbachia-de4f3f.netlify.app/
 
 ## Screenshots
 ![Spotify Clone Homepage](assets/screenshot.png)
